@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2762BEEB-D69B-4513-B531-56EE7A1F5555</string>
+	<key>IDESourceControlProjectName</key>
+	<string>klasy_autobusu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>484FEADFD60D55AE2EF3A64B7110A30F962EA077</key>
+		<string>https://github.com/260204/inzyniernia.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>system_autobusow/4. NIC/xcode osx/klasy_autobusu/klasy_autobusu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>484FEADFD60D55AE2EF3A64B7110A30F962EA077</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/260204/inzyniernia.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>484FEADFD60D55AE2EF3A64B7110A30F962EA077</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>484FEADFD60D55AE2EF3A64B7110A30F962EA077</string>
+			<key>IDESourceControlWCCName</key>
+			<string>inzyniernia</string>
+		</dict>
+	</array>
+</dict>
+</plist>
